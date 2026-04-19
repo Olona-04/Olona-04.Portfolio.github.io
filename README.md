@@ -1,4 +1,4 @@
-# 💼 Digital Portfolio – Olona Metia Williams
+# Digital Portfolio – OLONA METIA WILLIAMS
 
 Welcome to my professional digital portfolio. This portfolio showcases my skills, experience, and growth as a final-year Information Technology (Application Development) student at the Cape Peninsula University of Technology (CPUT).
 
