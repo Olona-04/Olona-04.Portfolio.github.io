@@ -1,16 +1,53 @@
 # Digital Portfolio – OLONA METIA WILLIAMS
 
+📍 20508 Mzuzu Street, Bloekombos, Kraaifontein, 7570  
+📞 062 770 0449 / 083 418 8608  
+📧 221630635@mycput.ac.za  
+🔗 **GitHub:** https://github.com/Olona-04  
+🔗 **LinkedIn:** https://www.linkedin.com/in/olona-williams-5797653b1/
+
+---
 Welcome to my professional digital portfolio. This portfolio showcases my skills, experience, and growth as a final-year Information Technology (Application Development) student at the Cape Peninsula University of Technology (CPUT).
 
-The purpose of this portfolio is to demonstrate my readiness for the workplace by presenting evidence of my technical abilities, projects, and personal development. It includes my CV, mock interview video, and reflections on my learning journey using modern tools such as GitHub and Markdown.
+The purpose of this portfolio is to demonstrate my readiness for the workplace by presenting evidence of my technical abilities, projects, and personal development. 
 
-This portfolio represents my commitment to continuous learning, problem-solving, and building meaningful digital solutions.
+---
+## 🎯 Career Objective
+
+Final-year **Information Technology (Application Development)** student at **Cape Peninsula University of Technology (CPUT)** with a strong interest in **software and web development**. Passionate about building practical digital solutions and improving user experiences through technology.
+
+My goal is to gain practical experience through Work Integrated Learning (WIL) and develop into a competent software developer. I aim to contribute to innovative and impactful projects while continuously enhancing my technical, problem-solving, and teamwork skills.
 
 ---
 
-# 👋 I'm Olona Metia Williams
+## 🎓 Education
 
-🎓 Final-year Information Technology (Application Development) student with a strong interest in software and web development. Passionate about building practical digital solutions and improving user experiences. Seeking an internship or junior developer opportunity.
+**Bernadino Heights High School**  
+Matric (Grade 12) 
+*Completed: 2020*
+
+**Cape Peninsula University of Technology (CPUT)**  
+Higher Certificate in Information & Communication Technology  
+*Completed: 2024*
+
+**Cape Peninsula University of Technology (CPUT)**  
+National Diploma in Information Technology – Application Development*  
+*Currently Enrolled (Final Year)*
+
+---
+
+## 💻 Technical Skills
+
+- Python
+- Java
+- JavaScript
+- HTML
+- CSS
+- PHP
+- MySQL / Database Connectivity
+- User Interface Design (UI)
+- Git Version Control
+- Wireframing & Prototyping (Figma)
 
 ---
 
@@ -32,68 +69,32 @@ I used GitHub to upload my work, manage my files, and publish this portfolio usi
 
 ---
 
-## 📄 My CV (Markdown Representation)
-
-### Olona Metia Williams
-
-📞 062 770 0449 / 083 418 8608  
-📧 221630635@mycput.ac.za  
-📍 Bloekombos, Kraaifontein  
-
----
-
-### 🎯 Career Objective
-Final-year Information Technology (Application Development) student with a strong interest in software and web development. Passionate about building practical digital solutions and improving user experiences. Seeking an internship or junior developer opportunity.
-
----
-
-### 🎓 Education
-- Cape Peninsula University of Technology (CPUT)  
-  National Diploma in IT (Application Development) – Final Year  
-
-- Cape Peninsula University of Technology (CPUT)  
-  Higher Certificate in ICT – Completed 2024  
-
-- Bernadino Heights High School  
-  Matric – Completed 2020  
-
----
-
-### 💻 Technical Skills
-- Python  
-- Java & JavaScript  
-- HTML / CSS  
-- PHP  
-- MySQL / Database Connectivity  
-- Git Version Control  
-- UI/UX Design  
-- Wireframing & Prototyping (Figma)  
-
----
-
 ### 🧩 Projects
 
 **Thrifting E-Commerce Website (2025)**  
 - Developed a responsive clothing website  
 - Implemented PHP backend functionality and database connectivity  
 - Enabled dynamic product display  
-- Collaborated in a team  
+- Collaborated in a team using structured development practices. 
 
 **NSFAS Mobile App Prototype (2025)**  
-- Designed using Figma  
-- Created login, application tracking, and dashboard features  
-- Focused on user experience  
+- Designed interactive prototype in Figma.  
+- Improved usability with user-centered design principles.  
+- Created flows for login, applications, uploads, and dashboard tracking. 
 
 ---
 
 ### 💼 Work Experience
 
 **Educator Assistant (2021–2022)**  
-- Assisted teachers and supported students  
-- Managed records and classroom tasks  
+- Assisted educators with preparation and administration.  
+- Supported learners academically.  
+- Managed mark sheets and records.  
 
 **General Assistant (2018)**  
-- Assisted customers and handled stock  
+- Assisted customers with enquiries.  
+- Supported retail operations and product displays.  
+- Promoted products and maintained customer satisfaction.    
 
 ---
 
@@ -103,16 +104,6 @@ Final-year Information Technology (Application Development) student with a stron
 
 ---
 
-## 💻 Technical Skills Summary
-
-- Programming & Development  
-- Web Development  
-- Database Management  
-- UI/UX Design  
-- Problem Solving  
-- Team Collaboration  
-
----
 # 🧠 REFLECTIONS (STAR METHOD)
 
 ---
