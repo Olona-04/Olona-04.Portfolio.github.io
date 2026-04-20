@@ -9,8 +9,6 @@
 ---
 Welcome to my professional digital portfolio. This portfolio showcases my skills, experience, and growth as a final-year Information Technology (Application Development) student at the Cape Peninsula University of Technology (CPUT).
 
-The purpose of this portfolio is to demonstrate my readiness for the workplace by presenting evidence of my technical abilities, projects, and personal development. 
-
 ---
 ## 🎯 Career Objective
 
@@ -59,42 +57,44 @@ Throughout my studies, I have developed skills in programming, database manageme
 
 ---
 
-## 🧑‍💻 GitHub Account (Evidence)
+### NSFAS Mobile App Redesign Prototype — 2025  
+**Tools:** Figma, UI/UX Design  
 
-This digital portfolio is created and managed using my GitHub account:
-
-🔗 https://github.com/Olona-04  
-
-I used GitHub to upload my work, manage my files, and publish this portfolio using GitHub Pages. This demonstrates my ability to use version control and modern development tools.
+- Designed an interactive NSFAS mobile app prototype to improve student funding access  
+- Created core app flows including login, applications, document uploads, and dashboard tracking  
+- Applied user-centered design principles to enhance usability and navigation  
 
 ---
 
-### 🧩 Projects
+### Thrifting E-Commerce Website (Group Project) — 2025  
+**Technologies:** HTML, CSS, Java, PHP, MySQL  
 
-**Thrifting E-Commerce Website (2025)**  
-- Developed a responsive clothing website  
+- Developed a thrift clothing website with responsive user interfaces  
 - Implemented PHP backend functionality and database connectivity  
-- Enabled dynamic product display  
-- Collaborated in a team using structured development practices. 
+- Enabled dynamic product display and data storage  
+- Collaborated in a team using structured development practices  
+---
 
-**NSFAS Mobile App Prototype (2025)**  
-- Designed interactive prototype in Figma.  
-- Improved usability with user-centered design principles.  
-- Created flows for login, applications, uploads, and dashboard tracking. 
+## 💼 Work Experience
+
+### Educator Assistant  
+**Northpine Technical High School**  
+  2021 – 2022
+
+- Assisted educators with classroom preparation and administrative duties.
+- Supported learners with academic activities and problem-solving tasks.
+- Managed mark sheets and educational records.
+- Maintained a structured and safe learning environment.
 
 ---
 
-### 💼 Work Experience
+### General Assistant  
+**Giant Hyper**  
+  Nov 2018 – Dec 2018
 
-**Educator Assistant (2021–2022)**  
-- Assisted educators with preparation and administration.  
-- Supported learners academically.  
-- Managed mark sheets and records.  
-
-**General Assistant (2018)**  
-- Assisted customers with enquiries.  
-- Supported retail operations and product displays.  
-- Promoted products and maintained customer satisfaction.    
+- Assisted customers with product enquiries and provided friendly customer service.
+- Supported daily retail operations including **stocking shelves and organizing merchandise displays**.
+- Promoted products and helped maintain high levels of customer satisfaction.
 
 ---
 # 🎥 Mock Interview Video  
@@ -108,7 +108,7 @@ I used GitHub to upload my work, manage my files, and publish this portfolio usi
 
 ---
 
-# Reflection on Coding in Markdown
+# Reflection on Coding my CV in Markdown
 
 ## Situation
 During the development of my digital portfolio, I was required to create and code my CV using Markdown language. At first, I was not very familiar with Markdown and had only basic knowledge about formatting text. I realized that this task would require me to learn a new skill and apply it professionally. I also needed to ensure that my CV was well-structured, clear, and visually appealing when viewed on GitHub. This was important because my digital portfolio represents my professional identity and work readiness.
@@ -154,7 +154,7 @@ This experience helped me improve my attention to detail, formatting skills, and
 
 ---
 
-# Reflection on Mock Interview Video
+# Reflection on Mock Interview Video (STAR Method)
 
 ## Situation
 As part of the digital portfolio, I was required to record a mock interview video. This task allowed me to simulate a real job interview and evaluate my communication skills. At first, I felt nervous because speaking in front of the camera can be challenging. However, I understood that this was an opportunity to improve my confidence and professional communication skills.
@@ -202,7 +202,7 @@ This experience prepared me for real job interviews and improved my professional
 
 ---
 
-# Reflection on GitHub Pages
+# Reflection on GitHub Pages (STAR Method)
 
 ## Situation
 I was required to publish my digital portfolio using GitHub Pages. This was my first time deploying a portfolio online. I needed to ensure that everything worked correctly and that my portfolio looked professional.
