@@ -97,10 +97,10 @@ I used GitHub to upload my work, manage my files, and publish this portfolio usi
 - Promoted products and maintained customer satisfaction.    
 
 ---
-
-## 🎥 Mock Interview Video
-
-👉 [Watch my Mock Interview Video](PASTE-YOUR-VIDEO-LINK-HERE)
+# 🎥 Mock Interview Video  
+<video width="600" controls>
+  <source src="4880ED72-56B9-4631-8048-1D59070CD55B.mp4" type="video/mp4">
+</video>
 
 ---
 
