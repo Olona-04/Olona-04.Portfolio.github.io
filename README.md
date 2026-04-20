@@ -10,7 +10,7 @@
 Welcome to my professional digital portfolio. This portfolio showcases my skills, experience, and growth as a final-year Information Technology (Application Development) student at the Cape Peninsula University of Technology (CPUT).
 
 ---
-## 🎯 Career Objective
+##  Career Objective
 
 Final-year **Information Technology (Application Development)** student at **Cape Peninsula University of Technology (CPUT)** with a strong interest in **software and web development**. Passionate about building practical digital solutions and improving user experiences through technology.
 
@@ -18,7 +18,7 @@ My goal is to gain practical experience through Work Integrated Learning (WIL) a
 
 ---
 
-## 🎓 Education
+##  Education
 
 **Bernadino Heights High School**  
 Matric (Grade 12) 
@@ -34,7 +34,7 @@ National Diploma in Information Technology – Application Development*
 
 ---
 
-## 💻 Technical Skills
+##  Technical Skills
 
 - Python
 - Java
@@ -49,13 +49,14 @@ National Diploma in Information Technology – Application Development*
 
 ---
 
-## 🌟 About Me
+##  About Me
 
 I am a passionate and motivated IT student with a strong interest in software and web development. I enjoy building practical digital solutions that solve real-world problems and improve user experiences.
 
 Throughout my studies, I have developed skills in programming, database management, and UI/UX design. I am always eager to learn new technologies and grow as a developer. I am currently seeking an internship or junior developer opportunity where I can apply my skills and gain valuable industry experience.
 
 ---
+##  PROJECT EXPERIENCE
 
 ### NSFAS Mobile App Redesign Prototype — 2025  
 **Tools:** Figma, UI/UX Design  
@@ -75,7 +76,7 @@ Throughout my studies, I have developed skills in programming, database manageme
 - Collaborated in a team using structured development practices  
 ---
 
-## 💼 Work Experience
+##  Work Experience
 
 ### Educator Assistant  
 **Northpine Technical High School**  
@@ -104,7 +105,7 @@ Throughout my studies, I have developed skills in programming, database manageme
 
 ---
 
-# Digital Portfolio Reflection (STAR Method)
+# Reflection (STAR Method)
 
 ---
 
