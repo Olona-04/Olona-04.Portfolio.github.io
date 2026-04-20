@@ -73,7 +73,9 @@ Throughout my studies, I have developed skills in programming, database manageme
 - Developed a thrift clothing website with responsive user interfaces  
 - Implemented PHP backend functionality and database connectivity  
 - Enabled dynamic product display and data storage  
-- Collaborated in a team using structured development practices  
+- Collaborated in a team using structured development practices
+
+  
 ---
 
 ##  Work Experience
