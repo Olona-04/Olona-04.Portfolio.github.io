@@ -53,7 +53,7 @@ National Diploma in Information Technology – Application Development*
 
 I am a passionate and motivated IT student with a strong interest in software and web development. I enjoy building practical digital solutions that solve real-world problems and improve user experiences.
 
-Throughout my studies, I have developed skills in programming, database management, and UI/UX design. I am always eager to learn new technologies and grow as a developer. I am currently seeking an internship or junior developer opportunity where I can apply my skills and gain valuable industry experience.
+Throughout my studies, I have developed skills in programming, database management, and UI/UX design. I am always eager to learn new technologies and grow as a developer. 
 
 ---
 ##  PROJECT EXPERIENCE
