@@ -1,7 +1,7 @@
 # GitHub Student Account
 ![Github Profile](Github%20Profile.png)
-Username: Olona williams 
-GitHub Profile: https://github.com/Olona-04 
+**Username:** Olona Williams  
+**GitHub Profile:** https://github.com/Olona-04
 
 # Digital Portfolio – OLONA METIA WILLIAMS
 📍 20508 Mzuzu Street, Bloekombos, Kraaifontein, 7570  
