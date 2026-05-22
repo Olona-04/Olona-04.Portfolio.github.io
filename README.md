@@ -208,7 +208,13 @@ The mock interview helped me improve my communication and presentation skills. I
 This experience prepared me for real job interviews and improved my professional readiness. I gained confidence and learned how to present myself professionally.
 
 ---
+# Published on GitHub Pages Evidence
 
+My digital portfolio is live and published on GitHub Pages:
+
+Live site:(https://olona-04.github.io/Olona-04.Portfolio.github.io/)
+![GitHub Pages Evidence](Github%20Pages%20Evidence.png)
+---
 # Reflection on GitHub Pages (STAR Method)
 
 ## Situation
