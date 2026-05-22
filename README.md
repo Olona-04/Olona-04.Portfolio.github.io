@@ -51,6 +51,7 @@ National Diploma in Information Technology – Application Development*
 - User Interface Design (UI)
 - Git Version Control
 - Wireframing & Prototyping (Figma)
+  
 ---
 ##  PROJECT EXPERIENCE
 
@@ -102,15 +103,12 @@ National Diploma in Information Technology – Application Development*
 </video>
 
 ---
-
-# Reflection (STAR Method)
-
----
 # Markdown Language Evidence
 
 ![markdown](markdown.png)
 
 ---
+# Reflection (STAR Method)
 
 # Reflection on Coding my CV in Markdown
 
