@@ -1,7 +1,7 @@
 # Digital Portfolio – OLONA METIA WILLIAMS
 
 # GitHub Student Account
-
+![Github Profile](Github%20Profile.png)
 📍 20508 Mzuzu Street, Bloekombos, Kraaifontein, 7570  
 📞 062 770 0449 / 083 418 8608  
 📧 221630635@mycput.ac.za  
