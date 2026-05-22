@@ -2,7 +2,7 @@
 ![Github Profile](Github%20Profile.png)
 **Username:** Olona Williams  
 **GitHub Profile:** https://github.com/Olona-04
-
+---
 # Digital Portfolio – OLONA METIA WILLIAMS
 📍 20508 Mzuzu Street, Bloekombos, Kraaifontein, 7570  
 📞 062 770 0449 / 083 418 8608  
@@ -213,6 +213,7 @@ This experience prepared me for real job interviews and improved my professional
 My digital portfolio is live and published on GitHub Pages:
 
 Live site:(https://olona-04.github.io/Olona-04.Portfolio.github.io/)
+
 ![GitHub Pages Evidence](Github%20Pages%20Evidence.png)
 ---
 # Reflection on GitHub Pages (STAR Method)
