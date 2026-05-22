@@ -108,7 +108,7 @@ National Diploma in Information Technology – Application Development*
 ---
 # Markdown Language Evidence
 
-<img src="Markdown Language Evidence.png" alt="Markdown Language Evidence">
+![markdown](markdown.png)
 
 ---
 
