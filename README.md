@@ -214,7 +214,7 @@ My digital portfolio is live and published on GitHub Pages:
 
 Live site:(https://olona-04.github.io/Olona-04.Portfolio.github.io/)
 
-![GitHub Pages Evidence](Github%20Pages%20Evidence.png)
+![GitHub Pages Evidence](GitHub%20Pages%20Evidence.png)
 ---
 # Reflection on GitHub Pages (STAR Method)
 
