@@ -66,36 +66,19 @@ National Diploma in Information Technology – Application Development*
 - Implemented PHP backend functionality and database connectivity  
 - Enabled dynamic product display and data storage  
 - Collaborated in a team using structured development practices
-
   
----
-
-##  Work Experience
-
-### Educator Assistant  
-**Northpine Technical High School**  
-  2021 – 2022
-
-- Assisted educators with classroom preparation and administrative duties.
-- Supported learners with academic activities and problem-solving tasks.
-- Managed mark sheets and educational records.
-- Maintained a structured and safe learning environment.
-
----
-
-### General Assistant  
-**Giant Hyper**  
-  Nov 2018 – Dec 2018
-
-- Assisted customers with product enquiries and provided friendly customer service.
-- Supported daily retail operations including **stocking shelves and organizing merchandise displays**.
-- Promoted products and helped maintain high levels of customer satisfaction.
-
 ---
 # 🎥 Mock Interview Video  
 <video width="600" controls>
   <source src="Olona_Williams_Mock_interview_video.mp4" type="video/mp4">
 </video>
+
+---
+
+# GitHub Student Account (Evidence) 
+![Github Profile](Github%20Profile.png)
+**Username:** Olona Williams  
+**GitHub Profile:** https://github.com/Olona-04
 
 ---
 # Markdown Language Evidence
@@ -249,11 +232,6 @@ I also gained:
 
 Overall, this project helped me develop both technical and professional skills. I learned how to create a professional digital portfolio, improve my communication skills, and deploy my work online.
 
----
-# GitHub Student Account (Evidence) 
-![Github Profile](Github%20Profile.png)
-**Username:** Olona Williams  
-**GitHub Profile:** https://github.com/Olona-04
 ---
 # Overall Reflection
 
