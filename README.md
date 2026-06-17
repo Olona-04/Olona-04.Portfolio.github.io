@@ -1,9 +1,4 @@
-# GitHub Student Account (Evidence) 
-![Github Profile](Github%20Profile.png)
-**Username:** Olona Williams  
-**GitHub Profile:** https://github.com/Olona-04
 
----
 # Digital Portfolio – OLONA METIA WILLIAMS
 📍 20508 Mzuzu Street, Bloekombos, Kraaifontein, 7570  
 📞 062 770 0449 / 083 418 8608  
@@ -255,7 +250,11 @@ I also gained:
 Overall, this project helped me develop both technical and professional skills. I learned how to create a professional digital portfolio, improve my communication skills, and deploy my work online.
 
 ---
-
+# GitHub Student Account (Evidence) 
+![Github Profile](Github%20Profile.png)
+**Username:** Olona Williams  
+**GitHub Profile:** https://github.com/Olona-04
+---
 # Overall Reflection
 
 This project helped me grow both technically and professionally. I learned new skills such as Markdown coding, GitHub usage, and creating a digital portfolio. I also improved my communication skills through the mock interview video.
