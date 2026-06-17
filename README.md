@@ -1,5 +1,5 @@
 
-# Digital Portfolio – OLONA METIA WILLIAMS
+# Portfolio – OLONA METIA WILLIAMS
 📍 20508 Mzuzu Street, Bloekombos, Kraaifontein, 7570  
 📞 062 770 0449 / 083 418 8608  
 📧 221630635@mycput.ac.za  
